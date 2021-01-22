@@ -7,5 +7,6 @@ To run the project :
 
 ```
 python3 game.py
-
 ```
+
+Enjoy the game in your terminal/prompt !
